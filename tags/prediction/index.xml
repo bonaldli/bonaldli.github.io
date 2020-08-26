@@ -5,12 +5,28 @@
     <link>https://bonaldli.github.io/tags/prediction/</link>
       <atom:link href="https://bonaldli.github.io/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 17:07:52 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Aug 2020 12:01:43 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
       <title>Prediction</title>
       <link>https://bonaldli.github.io/tags/prediction/</link>
     </image>
+    
+    <item>
+      <title>Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile</title>
+      <link>https://bonaldli.github.io/publication/case2020/</link>
+      <pubDate>Sat, 22 Aug 2020 12:01:43 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/case2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
+      <link>https://bonaldli.github.io/publication/aaai/</link>
+      <pubDate>Fri, 03 Apr 2020 16:32:57 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/aaai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My Dating Hack</title>
