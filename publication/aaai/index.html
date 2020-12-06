@@ -21,7 +21,7 @@
   
   
 
-  <meta name="author" content="Bonald Ziyue LI">
+  <meta name="author" content="Ziyue LI">
 
   
   
@@ -43,6 +43,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -172,9 +175,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -266,7 +269,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Bonald Ziyue LI"
+    "name": "Ziyue LI"
   },
   
   "publisher": {
@@ -562,7 +565,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/files/Ziyue_Bonald_LI_CV_Nov2020.pdf"><span>CV</span></a>
         </li>
 
         
@@ -632,7 +635,7 @@
 
 
   
-  <span><a href="/authors/admin/">Bonald Ziyue LI</a></span>, <span><a href="/authors/nurettin-dorukhan-sergin/">Nurettin Dorukhan Sergin</a></span>, <span><a href="/authors/hao-yan/">Hao Yan</a></span>, <span><a href="/authors/chen-zhang/">Chen Zhang</a></span>, <span><a href="/authors/fugee-tsung/">Fugee Tsung</a></span>
+  <span><a href="/authors/admin/">Ziyue LI</a></span>, <span><a href="/authors/nurettin-dorukhan-sergin/">Nurettin Dorukhan Sergin</a></span>, <span><a href="/authors/hao-yan/">Hao Yan</a></span>, <span><a href="/authors/chen-zhang/">Chen Zhang</a></span>, <span><a href="/authors/fugee-tsung/">Fugee Tsung</a></span>
 
   </div>
   
@@ -786,7 +789,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">AAAI-2020</div>
+          <div class="col-12 col-md-9">Proceedings of the AAAI Conference on Artificial Intelligence</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -796,7 +799,17 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><p><i class="fas fa-medal"></i> Award:</p>
+<blockquote>
+<p>This paper is awarded with <strong>Best Student Paper Finalist Award</strong> in INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section.</p>
+</blockquote>
+<h2 id="challenge">Challenge</h2>
+<p>From our last paper, we found out low-rank tensor completion tends to ill-perform in heterogeneous stations. This is because LRTC assume a low rank structure in data, i.e. low-rank property implies that data in all stations are strongly and linearly dependent. However, two spatial correlations in station dimension are observed: only stations that are geographically close or functionally similar are more likely to have same passenger flow patterns. We offered a temporary solution by conducting LRTC within each station cluster to guarantee low-rank structure. But we would also like to look for a better solution, a low-rank tensor completion method that could directly handle the data with local spatial correlations.</p>
+<h2 id="methodology">Methodology</h2>
+<p>Therefore we proposed a tensor completion method for Weakly-dependent Data on Graph (WDG). We formulate the geographical correlation and functional similarity as two graphs, and introduce them as two Laplacian regularizations into LRTC, namely, into station-feature matrix $\mathbf{U}^{station}$, such that if two stations are close on the two graphs, they have similar parameters on $\mathbf{U}^{station}$. Besides, since there are those two graphs on station dimension, if any 2 stations are randomly picked, they’re less likely to be highly-dependent if they’re not connected in either of two graphs. We formulate this weak dependency as a sparse coding via $l_1$-norm, such that a station is represented with only a small amount of highly-related stations as “basis”.</p>
+<h2 id="results">Results</h2>
+<p>We are the first work to provide a Low Rank Tensor Completion solution to weakly-dependent pattern on graphs. And the completion result could achieve 40% higher accuracy.</p>
+</div>
 
     
 
@@ -938,9 +951,9 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/admin/">Bonald Ziyue LI</a></h5>
+      <h5 class="card-title"><a href="/authors/admin/">Ziyue LI</a></h5>
       <h6 class="card-subtitle">Ph.D. Candidate in Data Analytics</h6>
-      <p class="card-text">My research interests include big data and machine learning</p>
+      <p class="card-text">To be a inspiring data science researcher</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1017,7 +1030,7 @@
       
     
     <li>
-      <a href="/files/cv.pdf" >
+      <a href="/files/Ziyue_Bonald_LI_CV_Nov2020.pdf" >
         <i class="ai ai-cv"></i>
       </a>
     </li>

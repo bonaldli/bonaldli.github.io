@@ -5,7 +5,7 @@
     <link>https://bonaldli.github.io/publication_types/1/</link>
       <atom:link href="https://bonaldli.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Aug 2020 12:01:43 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 16:32:57 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
       <title>1</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile</title>
-      <link>https://bonaldli.github.io/publication/case2020/</link>
-      <pubDate>Sat, 22 Aug 2020 12:01:43 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/case2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
       <link>https://bonaldli.github.io/publication/aaai/</link>
       <pubDate>Fri, 03 Apr 2020 16:32:57 +0800</pubDate>
       <guid>https://bonaldli.github.io/publication/aaai/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;From our last paper, we found out low-rank tensor completion tends to ill-perform in heterogeneous stations. This is because LRTC assume a low rank structure in data, i.e. low-rank property implies that data in all stations are strongly and linearly dependent. However, two spatial correlations in station dimension are observed: only stations that are geographically close or functionally similar are more likely to have same passenger flow patterns. We offered a temporary solution by conducting LRTC within each station cluster to guarantee low-rank structure. But we would also like to look for a better solution, a low-rank tensor completion method that could directly handle the data with local spatial correlations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;Therefore we proposed a tensor completion method for Weakly-dependent Data on Graph (WDG). We formulate the geographical correlation and functional similarity as two graphs, and introduce them as two Laplacian regularizations into LRTC, namely, into station-feature matrix $\mathbf{U}^{station}$, such that if two stations are close on the two graphs, they have similar parameters on $\mathbf{U}^{station}$. Besides, since there are those two graphs on station dimension, if any 2 stations are randomly picked, they’re less likely to be highly-dependent if they’re not connected in either of two graphs. We formulate this weak dependency as a sparse coding via $l_1$-norm, such that a station is represented with only a small amount of highly-related stations as “basis”.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;We are the first work to provide a Low Rank Tensor Completion solution to weakly-dependent pattern on graphs. And the completion result could achieve 40% higher accuracy.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

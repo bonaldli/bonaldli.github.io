@@ -21,7 +21,7 @@
   
   
 
-  <meta name="author" content="Bonald Ziyue LI">
+  <meta name="author" content="Ziyue LI">
 
   
   
@@ -43,6 +43,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -172,9 +175,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -266,7 +269,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Bonald Ziyue LI"
+    "name": "Ziyue LI"
   },
   
   "publisher": {
@@ -562,7 +565,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/files/Ziyue_Bonald_LI_CV_Nov2020.pdf"><span>CV</span></a>
         </li>
 
         
@@ -632,7 +635,7 @@
 
 
   
-  <span><a href="/authors/admin/">Bonald Ziyue LI</a></span>, <span><a href="/authors/hao-yan/">Hao Yan</a></span>, <span><a href="/authors/chen-zhang/">Chen Zhang</a></span>, <span><a href="/authors/fugee-tsung/">Fugee Tsung</a></span>
+  <span><a href="/authors/admin/">Ziyue LI</a></span>, <span><a href="/authors/hao-yan/">Hao Yan</a></span>, <span><a href="/authors/chen-zhang/">Chen Zhang</a></span>, <span><a href="/authors/fugee-tsung/">Fugee Tsung</a></span>
 
   </div>
   
@@ -760,8 +763,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -778,7 +781,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">IEEE International Conference on Automation Science and Engineering</div>
+          <div class="col-12 col-md-9">IEEE Robotics and Automation Letters</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -788,7 +791,19 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><p><i class="fas fa-medal"></i> Award:</p>
+<blockquote>
+<p>This paper is awarded with <strong>Best Conference Paper Award</strong> in 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE).</p>
+</blockquote>
+<p>Traffic flow prediction is undoubtedly an essential task for both operational team and citizens. With the collaboration the Hong Kong Metro, we realize  the task to provide the citywide prediction covering all 100 stations simultaneously is quite essential yet rather challenging, especially when the data has strong spatiotemporal correlation.</p>
+<h2 id="challenge">Challenge</h2>
+<p>We observed two types of spatial correlations and two types of temporal correlations in the data. We have spot that, for spatial correlations: (S1) Geographical correlation: the passenger flow of a station is usually affected by its spatially adjacent neighbors; (S2) Contextual correlations: two stations sharing similar functionalities (business center, residential area or school, etc.) are more likely to have similar passenger flows. For temporal correlations: (T1) Daily correlation: the profile is correlated with previous days of the same week; (T2)  Weekly correlation: the profile is correlated with the same day of previous weeks.</p>
+<p>For the metro operational team, to provide long-term (several days ahead) prediction and short-term (several hours ahead) prediction are both important. And there are little work to both consider spatiotemporal correlation and offer citywide long- and short-term prediction.</p>
+<h2 id="methodology">Methodology</h2>
+<p>To tackle this challenge, we first formulate data as a three-dimensional tensor $\boldsymbol{\mathcal{X}}^{station \times  point \times day}$ with dimension station, day, time point, to preserve the spatiotemporal nature of the data. (1.1) For long-term prediction, we proposed a &ldquo;2-step 2D-ARMA&rdquo; tensor prediction model, which firstly uses tensor decomposition to get day-feature matrix $\mathbf{U}^{day}$, and then conducts 2D-ARMA prediction model on this $\mathbf{U}^{day}$, capturing the daily and weekly correlations in a better way. (1.2) Another challenge for long-term prediction is how to update prediction real-time when new data keep arriving. To tackle this, we also propose a recursive dynamic updating method. (2) For short-term prediction,  we first directly used Low Rank Tensor Completion (LRTC) method to treat the prediction horizon as missing part and to complete it. But we found an interesting phenomenon: in homogeneous stations LRTC works well, however, LRTC malfunctions in heterogeneous stations. we proposed a temporary solution for it: a &ldquo;Tensor Clustering + Tensor Completion&rdquo; prediction model which first clusters stations and then conducts tensor completion within each station cluster for prediction.</p>
+<h2 id="results">Results</h2>
+<p>Our method improved the prediction results significantly: for long-term prediction, 30% higher accuracy is achieved; Recursive dynamic updating method could improve the following 3 hours prediction by around 20%. For short-term prediction, with the homogeneity of stations guaranteed, and the tensor completion within one cluster can improve the prediction by 30%</p>
+</div>
 
     
 
@@ -928,9 +943,9 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/admin/">Bonald Ziyue LI</a></h5>
+      <h5 class="card-title"><a href="/authors/admin/">Ziyue LI</a></h5>
       <h6 class="card-subtitle">Ph.D. Candidate in Data Analytics</h6>
-      <p class="card-text">My research interests include big data and machine learning</p>
+      <p class="card-text">To be a inspiring data science researcher</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1007,7 +1022,7 @@
       
     
     <li>
-      <a href="/files/cv.pdf" >
+      <a href="/files/Ziyue_Bonald_LI_CV_Nov2020.pdf" >
         <i class="ai ai-cv"></i>
       </a>
     </li>
