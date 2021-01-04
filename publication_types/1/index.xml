@@ -5,12 +5,20 @@
     <link>https://bonaldli.github.io/publication_types/1/</link>
       <atom:link href="https://bonaldli.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 16:32:57 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 18:20:55 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://bonaldli.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
+      <link>https://bonaldli.github.io/publication/phdsym/</link>
+      <pubDate>Mon, 04 Jan 2021 18:20:55 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/phdsym/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
