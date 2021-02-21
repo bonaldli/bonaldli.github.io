@@ -5,12 +5,20 @@
     <link>https://bonaldli.github.io/tags/tensor-decomposition/</link>
       <atom:link href="https://bonaldli.github.io/tags/tensor-decomposition/index.xml" rel="self" type="application/rss+xml" />
     <description>Tensor Decomposition</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Aug 2020 12:01:43 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 18:20:55 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
       <title>Tensor Decomposition</title>
       <link>https://bonaldli.github.io/tags/tensor-decomposition/</link>
     </image>
+    
+    <item>
+      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
+      <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
+      <pubDate>Mon, 04 Jan 2021 18:20:55 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile</title>

@@ -5,7 +5,7 @@
     <link>https://bonaldli.github.io/authors/admin/</link>
       <atom:link href="https://bonaldli.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Bonald Ziyue LI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 18:32:48 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 19:18:44 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
       <title>Bonald Ziyue LI</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
-      <link>https://bonaldli.github.io/publication/anomaly/</link>
-      <pubDate>Mon, 04 Jan 2021 18:32:48 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/anomaly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
-      <link>https://bonaldli.github.io/publication/phdsym/</link>
-      <pubDate>Mon, 04 Jan 2021 18:20:55 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/phdsym/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Individualized Passenger Travel Pattern Multi-Clustering based on Tensor Latent Dirichlet Allocation</title>
-      <link>https://bonaldli.github.io/publication/icde2020/</link>
-      <pubDate>Sun, 06 Dec 2020 19:18:44 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/icde2020/</guid>
+      <link>https://bonaldli.github.io/publication/kdd2021/</link>
+      <pubDate>Mon, 08 Feb 2021 19:18:44 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/kdd2021/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Data Mining Section.&lt;/p&gt;
@@ -45,6 +29,22 @@
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
 &lt;p&gt;Eventually, the topics along each dimension of $o, d, t$ are much more interpretable and meaningful than benchmark methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/anomaly/</link>
+      <pubDate>Mon, 04 Jan 2021 18:32:48 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/anomaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
+      <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
+      <pubDate>Mon, 04 Jan 2021 18:20:55 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
+      <description></description>
     </item>
     
     <item>
