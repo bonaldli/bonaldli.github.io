@@ -5,7 +5,7 @@
     <link>https://bonaldli.github.io/authors/chen-zhang/</link>
       <atom:link href="https://bonaldli.github.io/authors/chen-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Bonald Ziyue LI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 19:18:44 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 15:46:35 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
       <title>Bonald Ziyue LI</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Individualized Passenger Travel Pattern Multi-Clustering based on Tensor Latent Dirichlet Allocation</title>
+      <title>Choose A Table: Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering</title>
+      <link>https://bonaldli.github.io/publication/aaai22dpmm/</link>
+      <pubDate>Tue, 28 Sep 2021 15:46:35 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/aaai22dpmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation</title>
       <link>https://bonaldli.github.io/publication/kdd2021/</link>
       <pubDate>Mon, 08 Feb 2021 19:18:44 +0800</pubDate>
       <guid>https://bonaldli.github.io/publication/kdd2021/</guid>
