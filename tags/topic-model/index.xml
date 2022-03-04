@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>topic model | Bonald Ziyue LI</title>
+    <title>Topic Model | Bonald Ziyue LI</title>
     <link>https://bonaldli.github.io/tags/topic-model/</link>
       <atom:link href="https://bonaldli.github.io/tags/topic-model/index.xml" rel="self" type="application/rss+xml" />
-    <description>topic model</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 19:18:44 +0800</lastBuildDate>
+    <description>Topic Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 15:46:35 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
-      <title>topic model</title>
+      <title>Topic Model</title>
       <link>https://bonaldli.github.io/tags/topic-model/</link>
     </image>
+    
+    <item>
+      <title>Choose A Table: Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering</title>
+      <link>https://bonaldli.github.io/publication/aaai22dpmm/</link>
+      <pubDate>Tue, 28 Sep 2021 15:46:35 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/aaai22dpmm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation</title>
@@ -29,6 +37,14 @@
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
 &lt;p&gt;Eventually, the topics along each dimension of $o, d, t$ are much more interpretable and meaningful than benchmark methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
+      <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
+      <pubDate>Mon, 04 Jan 2021 18:20:55 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
+      <description></description>
     </item>
     
   </channel>

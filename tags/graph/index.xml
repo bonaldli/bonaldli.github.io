@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/graph/</link>
+      <atom:link href="https://bonaldli.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 16:08:37 +0800</lastBuildDate>
+    <image>
+      <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
+      <title>Graph</title>
+      <link>https://bonaldli.github.io/tags/graph/</link>
+    </image>
+    
+    <item>
+      <title>RANG-AT&amp;T: RoAd Network Graph Augmented Transformer for Trajectory Representation Learning</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Tue, 28 Sep 2021 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory-guided Contrastive Representation Learning on Road Network Graph</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</link>
+      <pubDate>Tue, 28 Sep 2021 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation</title>
+      <link>https://bonaldli.github.io/publication/kdd2021/</link>
+      <pubDate>Mon, 08 Feb 2021 19:18:44 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/kdd2021/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Data Mining Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After the previous two works in station-wise traffic flow prediction, we realized this mass traffic analysis at a macro level neglects the research value and abundant information of individual passenger travel data. Individualized travel pattern (passenger $u$ travels from origin $o$ to destination $d$  at time $t$) is believed to have higher research value.&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;But this task is rather challenging since it is high-dimensional multi-mode Spatiotemporal big data with more 7 million passengers; Also there is multi-clustering structure along each dimension of $o, d, t$; passenger behaviors are also affected by the external environment, such as the locations and surroundings of stations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;So we proposed a novel Graph-Regularized Tensor LDA model: firstly it represents each trip from one passenger as a 3-dimensional word $\boldsymbol{w} = (w^O, w^D, w^T)$; A passenger with several trips is perceived as a 3-dimensional document $\boldsymbol{\mathcal{W}}^{O \times D \times T}$; Generative processes in the passenger-level and trip-level will be defined along each dimension and the latent topic will be also formulated as a tensor $\boldsymbol{z} = (z^O, z^D, z^T)$; Same as last work we also observed that passengers will have similar patterns both in geographically close stations or functionally similar stations. We further propose to incorporate the graph regularizations into the tensor LDA generative process for origin and destination. We also propose the tensorised variational  expectation-maximization (EM) algorithm to estimate parameters.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Eventually, the topics along each dimension of $o, d, t$ are much more interpretable and meaningful than benchmark methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
+      <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
+      <pubDate>Mon, 04 Jan 2021 18:20:55 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
+      <link>https://bonaldli.github.io/publication/aaai/</link>
+      <pubDate>Fri, 03 Apr 2020 16:32:57 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/aaai/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;From our last paper, we found out low-rank tensor completion tends to ill-perform in heterogeneous stations. This is because LRTC assume a low rank structure in data, i.e. low-rank property implies that data in all stations are strongly and linearly dependent. However, two spatial correlations in station dimension are observed: only stations that are geographically close or functionally similar are more likely to have same passenger flow patterns. We offered a temporary solution by conducting LRTC within each station cluster to guarantee low-rank structure. But we would also like to look for a better solution, a low-rank tensor completion method that could directly handle the data with local spatial correlations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;Therefore we proposed a tensor completion method for Weakly-dependent Data on Graph (WDG). We formulate the geographical correlation and functional similarity as two graphs, and introduce them as two Laplacian regularizations into LRTC, namely, into station-feature matrix $\mathbf{U}^{station}$, such that if two stations are close on the two graphs, they have similar parameters on $\mathbf{U}^{station}$. Besides, since there are those two graphs on station dimension, if any 2 stations are randomly picked, they’re less likely to be highly-dependent if they’re not connected in either of two graphs. We formulate this weak dependency as a sparse coding via $l_1$-norm, such that a station is represented with only a small amount of highly-related stations as “basis”.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;We are the first work to provide a Low Rank Tensor Completion solution to weakly-dependent pattern on graphs. And the completion result could achieve 40% higher accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

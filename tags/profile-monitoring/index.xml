@@ -5,12 +5,20 @@
     <link>https://bonaldli.github.io/tags/profile-monitoring/</link>
       <atom:link href="https://bonaldli.github.io/tags/profile-monitoring/index.xml" rel="self" type="application/rss+xml" />
     <description>Profile Monitoring</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Mar 2020 11:52:42 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 18:32:48 +0800</lastBuildDate>
     <image>
       <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
       <title>Profile Monitoring</title>
       <link>https://bonaldli.github.io/tags/profile-monitoring/</link>
     </image>
+    
+    <item>
+      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/anomaly/</link>
+      <pubDate>Mon, 04 Jan 2021 18:32:48 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/anomaly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discussion of &#39;A novel approach to the analysis of spatial and functional data over complex domains&#39; </title>

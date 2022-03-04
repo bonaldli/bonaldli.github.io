@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attention | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/attention/</link>
+      <atom:link href="https://bonaldli.github.io/tags/attention/index.xml" rel="self" type="application/rss+xml" />
+    <description>Attention</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 16:08:37 +0800</lastBuildDate>
+    <image>
+      <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
+      <title>Attention</title>
+      <link>https://bonaldli.github.io/tags/attention/</link>
+    </image>
+    
+    <item>
+      <title>RANG-AT&amp;T: RoAd Network Graph Augmented Transformer for Trajectory Representation Learning</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Tue, 28 Sep 2021 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
