@@ -4,7 +4,72 @@
   
   <url>
     <loc>https://bonaldli.github.io/authors/admin/</loc>
-    <lastmod>2021-09-28T16:08:37+08:00</lastmod>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/talk/guest/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/authors/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/causal-inference/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/contrastive-learning/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/intelligent-transport-systems/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/talk/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/smart-mobility/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/spatiotemporal-analysis/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/tensor/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/tags/topic-model/</loc>
+    <lastmod>2023-01-30T15:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bonaldli.github.io/talk/dmu/</loc>
+    <lastmod>2023-01-02T16:15:13+01:00</lastmod>
   </url>
   
   <url>
@@ -18,27 +83,12 @@
   </url>
   
   <url>
-    <loc>https://bonaldli.github.io/authors/</loc>
-    <lastmod>2021-09-28T16:08:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bonaldli.github.io/</loc>
-    <lastmod>2021-09-28T16:08:37+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bonaldli.github.io/categories/</loc>
     <lastmod>2021-09-28T16:08:37+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bonaldli.github.io/categories/conference/</loc>
-    <lastmod>2021-09-28T16:08:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bonaldli.github.io/tags/contrastive-learning/</loc>
     <lastmod>2021-09-28T16:08:37+08:00</lastmod>
   </url>
   
@@ -88,11 +138,6 @@
   </url>
   
   <url>
-    <loc>https://bonaldli.github.io/tags/</loc>
-    <lastmod>2021-09-28T16:08:37+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</loc>
     <lastmod>2021-09-28T16:08:37+08:00</lastmod>
   </url>
@@ -134,16 +179,6 @@
   
   <url>
     <loc>https://bonaldli.github.io/tags/individualized-analysis/</loc>
-    <lastmod>2021-09-28T15:46:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bonaldli.github.io/tags/tensor/</loc>
-    <lastmod>2021-09-28T15:46:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bonaldli.github.io/tags/topic-model/</loc>
     <lastmod>2021-09-28T15:46:35+08:00</lastmod>
   </url>
   
@@ -253,11 +288,6 @@
   </url>
   
   <url>
-    <loc>https://bonaldli.github.io/tags/spatiotemporal-analysis/</loc>
-    <lastmod>2020-08-22T12:01:43+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bonaldli.github.io/tags/tensor-completion/</loc>
     <lastmod>2020-08-22T12:01:43+08:00</lastmod>
   </url>
@@ -315,10 +345,6 @@
   <url>
     <loc>https://bonaldli.github.io/post/my-arhikes/</loc>
     <lastmod>2019-08-22T15:46:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bonaldli.github.io/talk/</loc>
   </url>
   
 </urlset>

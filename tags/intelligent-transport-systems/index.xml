@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligent Transport Systems | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/intelligent-transport-systems/</link>
+      <atom:link href="https://bonaldli.github.io/tags/intelligent-transport-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intelligent Transport Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 15:30:00 +0100</lastBuildDate>
+    <image>
+      <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
+      <title>Intelligent Transport Systems</title>
+      <link>https://bonaldli.github.io/tags/intelligent-transport-systems/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Machine Learning for Smart Transportation</title>
+      <link>https://bonaldli.github.io/talk/guest/</link>
+      <pubDate>Mon, 30 Jan 2023 15:30:00 +0100</pubDate>
+      <guid>https://bonaldli.github.io/talk/guest/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;&lt;strong&gt;Details:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;0-syllabus&#34;&gt;0. Syllabus:&lt;/h4&gt;
+&lt;p&gt;The syllabus is available 
+&lt;a href=&#34;https://drive.google.com/open?id=10flGnmEzIsPo6YFUhUAdim5VYlW_TyNB&amp;amp;authuser=bobbyli1994%40gmail.com&amp;amp;usp=drive_fs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;1-lecture-one-high-dimensional-data-tensor-in-smart-transportation&#34;&gt;1. Lecture One: High-dimensional Data (Tensor) in Smart Transportation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time&lt;/strong&gt;: 3:30PM-4:45PM, 30 Jan 2023 (65-70min Lecture, 5-10min Q&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Zoom (&lt;a href=&#34;https://gatech.zoom.us/j/97394420485,&#34;&gt;https://gatech.zoom.us/j/97394420485,&lt;/a&gt; Meeting ID: 973 9442 0485)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: In the first lecture, we will discuss how the high-dimensional data analytics, i.e., tensor methods, could well formulate the traffic data both spatially and temporally, and we will look at the most popular tasks in ITS: demand prediction, and travel pattern clustering. Specifically, we will discuss Tensor Decomposition, Tensor Completion for demand prediction, and Tensor Topic Models for travel pattern clustering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;tensor.png&#34; alt=&#34;Tensor in ITS&#34; title=&#34;caption&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2-lecture-two-deep-learning-in-smart-transportation&#34;&gt;2. Lecture Two: Deep Learning in Smart Transportation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time&lt;/strong&gt;: 3:30PM-4:45PM, 01 Feb 2023 (65-70min Lecture, 5-10min Q&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Zoom (&lt;a href=&#34;https://gatech.zoom.us/j/97394420485,&#34;&gt;https://gatech.zoom.us/j/97394420485,&lt;/a&gt; Meeting ID: 973 9442 0485)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: In the second lecture, more deep learning related methods will be introduced. Specifically, we will discuss how Self-Supervised Learning can be leveraged to deal with static time-series data such as traffic flow. We will also discuss how Contrastive Learning could learn more robust representation for dynamic trajectory. Last but not the least, we will also leverage Deep Reinforcement Learning into traffic signal control and Deep Causal Inference into traffic congestion reasoning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;dl.png&#34; alt=&#34;DL in ITS&#34; title=&#34;caption&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
