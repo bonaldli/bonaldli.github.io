@@ -14,9 +14,9 @@
     
     <item>
       <title>Advanced Machine Learning for Smart Transportation</title>
-      <link>https://bonaldli.github.io/talk/guest/</link>
+      <link>https://bonaldli.github.io/talk/ml-its/</link>
       <pubDate>Mon, 30 Jan 2023 15:30:00 +0100</pubDate>
-      <guid>https://bonaldli.github.io/talk/guest/</guid>
+      <guid>https://bonaldli.github.io/talk/ml-its/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;details&#34;&gt;&lt;strong&gt;Details:&lt;/strong&gt;&lt;/h2&gt;
 &lt;h4 id=&#34;0-syllabus&#34;&gt;0. Syllabus:&lt;/h4&gt;
@@ -28,14 +28,22 @@
 &lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Zoom (&lt;a href=&#34;https://gatech.zoom.us/j/97394420485,&#34;&gt;https://gatech.zoom.us/j/97394420485,&lt;/a&gt; Meeting ID: 973 9442 0485)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: In the first lecture, we will discuss how the high-dimensional data analytics, i.e., tensor methods, could well formulate the traffic data both spatially and temporally, and we will look at the most popular tasks in ITS: demand prediction, and travel pattern clustering. Specifically, we will discuss Tensor Decomposition, Tensor Completion for demand prediction, and Tensor Topic Models for travel pattern clustering.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;tensor.png&#34; alt=&#34;Tensor in ITS&#34; title=&#34;caption&#34;&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QyoZR-UksQM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h4 id=&#34;2-lecture-two-deep-learning-in-smart-transportation&#34;&gt;2. Lecture Two: Deep Learning in Smart Transportation&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Time&lt;/strong&gt;: 3:30PM-4:45PM, 01 Feb 2023 (65-70min Lecture, 5-10min Q&amp;amp;A)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Zoom (&lt;a href=&#34;https://gatech.zoom.us/j/97394420485,&#34;&gt;https://gatech.zoom.us/j/97394420485,&lt;/a&gt; Meeting ID: 973 9442 0485)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: In the second lecture, more deep learning related methods will be introduced. Specifically, we will discuss how Self-Supervised Learning can be leveraged to deal with static time-series data such as traffic flow. We will also discuss how Contrastive Learning could learn more robust representation for dynamic trajectory. Last but not the least, we will also leverage Deep Reinforcement Learning into traffic signal control and Deep Causal Inference into traffic congestion reasoning.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;dl.png&#34; alt=&#34;DL in ITS&#34; title=&#34;caption&#34;&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1BFLL7JT7qM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
