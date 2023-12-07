@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trajectory | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/trajectory/</link>
+      <atom:link href="https://bonaldli.github.io/tags/trajectory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trajectory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 23:58:51 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Trajectory</title>
+      <link>https://bonaldli.github.io/tags/trajectory/</link>
+    </image>
+    
+    <item>
+      <title>Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering</title>
+      <link>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</link>
+      <pubDate>Sun, 05 Nov 2023 23:58:51 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Sun, 05 Nov 2023 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
+      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
+      <pubDate>Wed, 14 Jun 2023 00:27:27 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jointly contrastive representation learning on road network and trajectory</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</link>
+      <pubDate>Mon, 17 Oct 2022 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation</title>
+      <link>https://bonaldli.github.io/publication/tensorlda-dami22/</link>
+      <pubDate>Sat, 18 Jun 2022 19:18:44 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/tensorlda-dami22/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Data Mining Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After the previous two works in station-wise traffic flow prediction, we realized this mass traffic analysis at a macro level neglects the research value and abundant information of individual passenger travel data. Individualized travel pattern (passenger $u$ travels from origin $o$ to destination $d$  at time $t$) is believed to have higher research value.&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;But this task is rather challenging since it is high-dimensional multi-mode Spatiotemporal big data with more 7 million passengers; Also there is multi-clustering structure along each dimension of $o, d, t$; passenger behaviors are also affected by the external environment, such as the locations and surroundings of stations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;So we proposed a novel Graph-Regularized Tensor LDA model: firstly it represents each trip from one passenger as a 3-dimensional word $\boldsymbol{w} = (w^O, w^D, w^T)$; A passenger with several trips is perceived as a 3-dimensional document $\boldsymbol{\mathcal{W}}^{O \times D \times T}$; Generative processes in the passenger-level and trip-level will be defined along each dimension and the latent topic will be also formulated as a tensor $\boldsymbol{z} = (z^O, z^D, z^T)$; Same as last work we also observed that passengers will have similar patterns both in geographically close stations or functionally similar stations. We further propose to incorporate the graph regularizations into the tensor LDA generative process for origin and destination. We also propose the tensorised variational  expectation-maximization (EM) algorithm to estimate parameters.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Eventually, the topics along each dimension of $o, d, t$ are much more interpretable and meaningful than benchmark methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
+      <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
+      <pubDate>Mon, 19 Apr 2021 18:20:55 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingyuan Gong | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/qingyuan-gong/</link>
+      <atom:link href="https://bonaldli.github.io/authors/qingyuan-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingyuan Gong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 16:08:37 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Qingyuan Gong</title>
+      <link>https://bonaldli.github.io/authors/qingyuan-gong/</link>
+    </image>
+    
+    <item>
+      <title>A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Sun, 05 Nov 2023 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Privacy-preserving Heart Rate Prediction System for Drivers in Connected Vehicles</title>
+      <link>https://bonaldli.github.io/publication/heart-driving-mobi23/</link>
+      <pubDate>Sun, 18 Jun 2023 00:28:56 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/heart-driving-mobi23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

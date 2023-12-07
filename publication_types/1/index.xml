@@ -5,50 +5,138 @@
     <link>https://bonaldli.github.io/publication_types/1/</link>
       <atom:link href="https://bonaldli.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 16:08:37 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 23:47:28 +0100</lastBuildDate>
     <image>
-      <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://bonaldli.github.io/publication_types/1/</link>
     </image>
     
     <item>
-      <title>RANG-AT&amp;T: RoAd Network Graph Augmented Transformer for Trajectory Representation Learning</title>
+      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
+      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
+      <pubDate>Thu, 23 Nov 2023 23:47:28 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems</title>
+      <link>https://bonaldli.github.io/publication/tptu_v2/</link>
+      <pubDate>Sun, 19 Nov 2023 23:51:41 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tptu_v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering</title>
+      <link>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</link>
+      <pubDate>Sun, 05 Nov 2023 23:58:51 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery</title>
       <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
-      <pubDate>Tue, 28 Sep 2021 16:08:37 +0800</pubDate>
+      <pubDate>Sun, 05 Nov 2023 16:08:37 +0800</pubDate>
       <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Trajectory-guided Contrastive Representation Learning on Road Network Graph</title>
-      <link>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</link>
-      <pubDate>Tue, 28 Sep 2021 16:08:37 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</guid>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Choose A Table: Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering</title>
-      <link>https://bonaldli.github.io/publication/aaai22dpmm/</link>
-      <pubDate>Tue, 28 Sep 2021 15:46:35 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/aaai22dpmm/</guid>
+      <title>Reboost Large Language Model-based Text-to-SQL, Text-to-Python, and Text-to-Function -- with Real Applications in Traffic Domain</title>
+      <link>https://bonaldli.github.io/publication/reboost-icde24/</link>
+      <pubDate>Sat, 28 Oct 2023 00:08:51 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/reboost-icde24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage</title>
+      <link>https://bonaldli.github.io/publication/tptu-icde24/</link>
+      <pubDate>Sat, 07 Oct 2023 00:12:42 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tptu-icde24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Causal Graph Convolutional Network for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/dbgcn-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:59 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/dbgcn-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlated Time Series Self-Supervised Representation Learning via Spatiotemporal Bootstrapping</title>
+      <link>https://bonaldli.github.io/publication/time-series-ssl-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:42 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/time-series-ssl-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Case23</title>
+      <link>https://bonaldli.github.io/publication/adaptive-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:02 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/adaptive-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM-DAG: Multi-task DAG Learning for Multi-modal Data--with Application for Traffic Congestion Analysis</title>
+      <link>https://bonaldli.github.io/publication/mmdag-kdd23/</link>
+      <pubDate>Fri, 04 Aug 2023 00:28:34 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mmdag-kdd23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Privacy-preserving Heart Rate Prediction System for Drivers in Connected Vehicles</title>
+      <link>https://bonaldli.github.io/publication/heart-driving-mobi23/</link>
+      <pubDate>Sun, 18 Jun 2023 00:28:56 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/heart-driving-mobi23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
+      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
+      <pubDate>Wed, 14 Jun 2023 00:27:27 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jointly contrastive representation learning on road network and trajectory</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</link>
+      <pubDate>Mon, 17 Oct 2022 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
       <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
-      <pubDate>Mon, 04 Jan 2021 18:20:55 +0800</pubDate>
+      <pubDate>Mon, 19 Apr 2021 18:20:55 +0800</pubDate>
       <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
-      <link>https://bonaldli.github.io/publication/aaai/</link>
+      <link>https://bonaldli.github.io/publication/wdgtc-aaai20/</link>
       <pubDate>Fri, 03 Apr 2020 16:32:57 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/aaai/</guid>
+      <guid>https://bonaldli.github.io/publication/wdgtc-aaai20/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section.&lt;/p&gt;

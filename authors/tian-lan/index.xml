@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tian Lan | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/tian-lan/</link>
+      <atom:link href="https://bonaldli.github.io/authors/tian-lan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tian Lan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:28:34 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tian Lan</title>
+      <link>https://bonaldli.github.io/authors/tian-lan/</link>
+    </image>
+    
+    <item>
+      <title>MM-DAG: Multi-task DAG Learning for Multi-modal Data--with Application for Traffic Congestion Analysis</title>
+      <link>https://bonaldli.github.io/publication/mmdag-kdd23/</link>
+      <pubDate>Fri, 04 Aug 2023 00:28:34 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mmdag-kdd23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

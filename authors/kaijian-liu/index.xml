@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaijian Liu | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/kaijian-liu/</link>
+      <atom:link href="https://bonaldli.github.io/authors/kaijian-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaijian Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Aug 2023 00:28:19 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kaijian Liu</title>
+      <link>https://bonaldli.github.io/authors/kaijian-liu/</link>
+    </image>
+    
+    <item>
+      <title>Relation-Aware Distribution Representation Network for Person Clustering With Multiple Modalities</title>
+      <link>https://bonaldli.github.io/publication/radnet-tmm23/</link>
+      <pubDate>Tue, 22 Aug 2023 00:28:19 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/radnet-tmm23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

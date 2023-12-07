@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatiotemporal Decision Intelligence | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/spatiotemporal-decision-intelligence/</link>
+      <atom:link href="https://bonaldli.github.io/tags/spatiotemporal-decision-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatiotemporal Decision Intelligence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:29:16 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Spatiotemporal Decision Intelligence</title>
+      <link>https://bonaldli.github.io/tags/spatiotemporal-decision-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
+      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

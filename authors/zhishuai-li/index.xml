@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhishuai Li | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/zhishuai-li/</link>
+      <atom:link href="https://bonaldli.github.io/authors/zhishuai-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhishuai Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 16:08:37 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Zhishuai Li</title>
+      <link>https://bonaldli.github.io/authors/zhishuai-li/</link>
+    </image>
+    
+    <item>
+      <title>A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Sun, 05 Nov 2023 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reboost Large Language Model-based Text-to-SQL, Text-to-Python, and Text-to-Function -- with Real Applications in Traffic Domain</title>
+      <link>https://bonaldli.github.io/publication/reboost-icde24/</link>
+      <pubDate>Sat, 28 Oct 2023 00:08:51 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/reboost-icde24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Causal Graph Convolutional Network for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/dbgcn-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:59 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/dbgcn-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation-Aware Distribution Representation Network for Person Clustering With Multiple Modalities</title>
+      <link>https://bonaldli.github.io/publication/radnet-tmm23/</link>
+      <pubDate>Tue, 22 Aug 2023 00:28:19 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/radnet-tmm23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM-DAG: Multi-task DAG Learning for Multi-modal Data--with Application for Traffic Congestion Analysis</title>
+      <link>https://bonaldli.github.io/publication/mmdag-kdd23/</link>
+      <pubDate>Fri, 04 Aug 2023 00:28:34 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mmdag-kdd23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Neural Network | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/graph-neural-network/</link>
+      <atom:link href="https://bonaldli.github.io/tags/graph-neural-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Neural Network</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 16:08:37 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Graph Neural Network</title>
+      <link>https://bonaldli.github.io/tags/graph-neural-network/</link>
+    </image>
+    
+    <item>
+      <title>A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Sun, 05 Nov 2023 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Causal Graph Convolutional Network for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/dbgcn-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:59 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/dbgcn-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Case23</title>
+      <link>https://bonaldli.github.io/publication/adaptive-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:02 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/adaptive-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jointly contrastive representation learning on road network and trajectory</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</link>
+      <pubDate>Mon, 17 Oct 2022 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

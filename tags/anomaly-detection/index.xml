@@ -7,16 +7,16 @@
     <description>Anomaly Detection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 18:32:48 +0800</lastBuildDate>
     <image>
-      <url>https://bonaldli.github.io/images/logo_hua8a87e19eb81e012a11357248f4216c8_33222_300x300_fit_lanczos_2.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Anomaly Detection</title>
       <link>https://bonaldli.github.io/tags/anomaly-detection/</link>
     </image>
     
     <item>
       <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
-      <link>https://bonaldli.github.io/publication/anomaly/</link>
+      <link>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</link>
       <pubDate>Mon, 04 Jan 2021 18:32:48 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/anomaly/</guid>
+      <guid>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</guid>
       <description></description>
     </item>
     

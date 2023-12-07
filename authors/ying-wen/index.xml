@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying Wen | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/ying-wen/</link>
+      <atom:link href="https://bonaldli.github.io/authors/ying-wen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying Wen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 23:47:28 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ying Wen</title>
+      <link>https://bonaldli.github.io/authors/ying-wen/</link>
+    </image>
+    
+    <item>
+      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
+      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
+      <pubDate>Thu, 23 Nov 2023 23:47:28 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sijie Ruan | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/sijie-ruan/</link>
+      <atom:link href="https://bonaldli.github.io/authors/sijie-ruan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sijie Ruan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 00:06:12 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sijie Ruan</title>
+      <link>https://bonaldli.github.io/authors/sijie-ruan/</link>
+    </image>
+    
+    <item>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

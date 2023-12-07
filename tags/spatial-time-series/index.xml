@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Time Series | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/spatial-time-series/</link>
+      <atom:link href="https://bonaldli.github.io/tags/spatial-time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial Time Series</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 00:06:12 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Spatial Time Series</title>
+      <link>https://bonaldli.github.io/tags/spatial-time-series/</link>
+    </image>
+    
+    <item>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Causal Graph Convolutional Network for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/dbgcn-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:59 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/dbgcn-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlated Time Series Self-Supervised Representation Learning via Spatiotemporal Bootstrapping</title>
+      <link>https://bonaldli.github.io/publication/time-series-ssl-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:42 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/time-series-ssl-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Case23</title>
+      <link>https://bonaldli.github.io/publication/adaptive-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:02 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/adaptive-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile</title>
+      <link>https://bonaldli.github.io/publication/lstensor-case2020/</link>
+      <pubDate>Thu, 25 Jun 2020 12:01:43 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/lstensor-case2020/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Conference Paper Award&lt;/strong&gt; in 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Traffic flow prediction is undoubtedly an essential task for both operational team and citizens. With the collaboration the Hong Kong Metro, we realize  the task to provide the citywide prediction covering all 100 stations simultaneously is quite essential yet rather challenging, especially when the data has strong spatiotemporal correlation.&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;We observed two types of spatial correlations and two types of temporal correlations in the data. We have spot that, for spatial correlations: (S1) Geographical correlation: the passenger flow of a station is usually affected by its spatially adjacent neighbors; (S2) Contextual correlations: two stations sharing similar functionalities (business center, residential area or school, etc.) are more likely to have similar passenger flows. For temporal correlations: (T1) Daily correlation: the profile is correlated with previous days of the same week; (T2)  Weekly correlation: the profile is correlated with the same day of previous weeks.&lt;/p&gt;
+&lt;p&gt;For the metro operational team, to provide long-term (several days ahead) prediction and short-term (several hours ahead) prediction are both important. And there are little work to both consider spatiotemporal correlation and offer citywide long- and short-term prediction.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;To tackle this challenge, we first formulate data as a three-dimensional tensor $\boldsymbol{\mathcal{X}}^{station \times  point \times day}$ with dimension station, day, time point, to preserve the spatiotemporal nature of the data. (1.1) For long-term prediction, we proposed a &amp;ldquo;2-step 2D-ARMA&amp;rdquo; tensor prediction model, which firstly uses tensor decomposition to get day-feature matrix $\mathbf{U}^{day}$, and then conducts 2D-ARMA prediction model on this $\mathbf{U}^{day}$, capturing the daily and weekly correlations in a better way. (1.2) Another challenge for long-term prediction is how to update prediction real-time when new data keep arriving. To tackle this, we also propose a recursive dynamic updating method. (2) For short-term prediction,  we first directly used Low Rank Tensor Completion (LRTC) method to treat the prediction horizon as missing part and to complete it. But we found an interesting phenomenon: in homogeneous stations LRTC works well, however, LRTC malfunctions in heterogeneous stations. we proposed a temporary solution for it: a &amp;ldquo;Tensor Clustering + Tensor Completion&amp;rdquo; prediction model which first clusters stations and then conducts tensor completion within each station cluster for prediction.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Our method improved the prediction results significantly: for long-term prediction, 30% higher accuracy is achieved; Recursive dynamic updating method could improve the following 3 hours prediction by around 20%. For short-term prediction, with the homogeneity of stations guaranteed, and the tensor completion within one cluster can improve the prediction by 30%&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

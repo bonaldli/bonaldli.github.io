@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Devices | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/smart-devices/</link>
+      <atom:link href="https://bonaldli.github.io/tags/smart-devices/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smart Devices</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:30:12 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Smart Devices</title>
+      <link>https://bonaldli.github.io/tags/smart-devices/</link>
+    </image>
+    
+    <item>
+      <title>The paradox of the artificial intelligence system development process: the use case of corporate wellness programs using smart wearables</title>
+      <link>https://bonaldli.github.io/publication/ai-ethics-aisociety22/</link>
+      <pubDate>Mon, 26 Sep 2022 00:30:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/ai-ethics-aisociety22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

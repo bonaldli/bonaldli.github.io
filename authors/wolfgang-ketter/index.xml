@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang Ketter | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/wolfgang-ketter/</link>
+      <atom:link href="https://bonaldli.github.io/authors/wolfgang-ketter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolfgang Ketter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 23:58:51 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wolfgang Ketter</title>
+      <link>https://bonaldli.github.io/authors/wolfgang-ketter/</link>
+    </image>
+    
+    <item>
+      <title>Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering</title>
+      <link>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</link>
+      <pubDate>Sun, 05 Nov 2023 23:58:51 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Sun, 05 Nov 2023 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM-DAG: Multi-task DAG Learning for Multi-modal Data--with Application for Traffic Congestion Analysis</title>
+      <link>https://bonaldli.github.io/publication/mmdag-kdd23/</link>
+      <pubDate>Fri, 04 Aug 2023 00:28:34 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mmdag-kdd23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

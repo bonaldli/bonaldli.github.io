@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Efficiency | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/model-efficiency/</link>
+      <atom:link href="https://bonaldli.github.io/tags/model-efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <description>Model Efficiency</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 23:47:28 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Model Efficiency</title>
+      <link>https://bonaldli.github.io/tags/model-efficiency/</link>
+    </image>
+    
+    <item>
+      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
+      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
+      <pubDate>Thu, 23 Nov 2023 23:47:28 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems</title>
+      <link>https://bonaldli.github.io/publication/tptu_v2/</link>
+      <pubDate>Sun, 19 Nov 2023 23:51:41 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tptu_v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlated Time Series Self-Supervised Representation Learning via Spatiotemporal Bootstrapping</title>
+      <link>https://bonaldli.github.io/publication/time-series-ssl-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:42 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/time-series-ssl-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Privacy-preserving Heart Rate Prediction System for Drivers in Connected Vehicles</title>
+      <link>https://bonaldli.github.io/publication/heart-driving-mobi23/</link>
+      <pubDate>Sun, 18 Jun 2023 00:28:56 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/heart-driving-mobi23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
+      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</link>
+      <pubDate>Mon, 04 Jan 2021 18:32:48 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
