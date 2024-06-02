@@ -5,12 +5,37 @@
     <link>https://bonaldli.github.io/authors/admin/</link>
       <atom:link href="https://bonaldli.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Bonald Ziyue LI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 23:47:28 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 23:58:01 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bonald Ziyue LI</title>
       <link>https://bonaldli.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning</title>
+      <link>https://bonaldli.github.io/publication/pdit/</link>
+      <pubDate>Sun, 02 Jun 2024 23:58:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/pdit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: In PDiT, we proposed a Transformer-interleaving-Transformer architecture for specialized environment perception and decision-making: it is a multi-modal generalist agent for vision, language, and numerics!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge</title>
+      <link>https://bonaldli.github.io/publication/dualight/</link>
+      <pubDate>Sun, 02 Jun 2024 18:30:13 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/dualight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network</title>
+      <link>https://bonaldli.github.io/publication/visiontraj/</link>
+      <pubDate>Sun, 02 Jun 2024 18:23:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/visiontraj/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>

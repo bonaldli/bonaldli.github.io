@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunhao Nie | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/yunhao-nie/</link>
+      <atom:link href="https://bonaldli.github.io/authors/yunhao-nie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunhao Nie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 18:23:55 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yunhao Nie</title>
+      <link>https://bonaldli.github.io/authors/yunhao-nie/</link>
+    </image>
+    
+    <item>
+      <title>VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network</title>
+      <link>https://bonaldli.github.io/publication/visiontraj/</link>
+      <pubDate>Sun, 02 Jun 2024 18:23:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/visiontraj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

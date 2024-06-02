@@ -5,12 +5,142 @@
     <link>https://bonaldli.github.io/</link>
       <atom:link href="https://bonaldli.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Bonald Ziyue LI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 23:00:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 23:58:01 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bonald Ziyue LI</title>
       <link>https://bonaldli.github.io/</link>
     </image>
+    
+    <item>
+      <title>PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning</title>
+      <link>https://bonaldli.github.io/publication/pdit/</link>
+      <pubDate>Sun, 02 Jun 2024 23:58:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/pdit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: In PDiT, we proposed a Transformer-interleaving-Transformer architecture for specialized environment perception and decision-making: it is a multi-modal generalist agent for vision, language, and numerics!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge</title>
+      <link>https://bonaldli.github.io/publication/dualight/</link>
+      <pubDate>Sun, 02 Jun 2024 18:30:13 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/dualight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network</title>
+      <link>https://bonaldli.github.io/publication/visiontraj/</link>
+      <pubDate>Sun, 02 Jun 2024 18:23:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/visiontraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Awards</title>
+      <link>https://bonaldli.github.io/post/my-awards/</link>
+      <pubDate>Sun, 02 Jun 2024 17:14:18 +0200</pubDate>
+      <guid>https://bonaldli.github.io/post/my-awards/</guid>
+      <description>&lt;h1 id=&#34;i-classfas-fa-trophyi-international-awards-and-prizes&#34;&gt;&lt;i class=&#34;fas fa-trophy&#34;&gt;&lt;/i&gt; &lt;strong&gt;International Awards and Prizes&lt;/strong&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Peter Luh Young Researcher Award (Runner-up) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10260564&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dynamic Causal Graph Convolutional Network for Traffic Prediction&lt;/a&gt;”, selected 3/600, highly prestigious, IEEE Robotics and Automation Society (2023).&lt;/li&gt;
+&lt;li&gt;Best Paper Award (Runner-up) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9458610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph-aware Tensor Topic Models for Individualized Passenger Travel Pattern Clustering&lt;/a&gt;”, Institute of Industrial and Systems Engineers (IISE), Quality Control and Reliability Engineering (QCRE) (2023).&lt;/li&gt;
+&lt;li&gt;Best Student Paper Award (Finalist) for the paper “Tensor Completion for High-dimensional Data with Graph-structured and Weakly-dependent Sample Dimension”, IISE QCRE (2022).&lt;/li&gt;
+&lt;li&gt;Best Applied Paper Award (Winner) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9458610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns&lt;/a&gt;” INFORMS Data Mining and Decision Analytics (DMDA) Workshop (2021).&lt;/li&gt;
+&lt;li&gt;Best Theoretical Paper Award (Runner-Up) for the paper “
+&lt;a href=&#34;https://arxiv.org/abs/2404.04403&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling&lt;/a&gt;”, INFORMS DMDA (2021).&lt;/li&gt;
+&lt;li&gt;Best Conference Paper Award (Winner) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/9126133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile&lt;/a&gt;”, IEEE International Conference on Automation Science and Engineering (CASE) (2020): selected from 1/500, highly prestigious.&lt;/li&gt;
+&lt;li&gt;Best Student Poster Award (Finalist) for the paper “
+&lt;a href=&#34;https://bonaldli.github.io/publication/anomaly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection&lt;/a&gt;”, INFORMS Quality, Statistics, and Reliability (QSR) Section (2020).&lt;/li&gt;
+&lt;li&gt;Best Student Paper Award (Finalist) for the paper “
+&lt;a href=&#34;https://bonaldli.github.io/publication/kdd2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation&lt;/a&gt;”, INFORMS Data Mining (2020).&lt;/li&gt;
+&lt;li&gt;Best Student Paper Award (Finalist) for the paper “
+&lt;a href=&#34;https://ojs.aaai.org//index.php/AAAI/article/view/5915&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tensor Completion for Weakly-Dependent Data on Graph for Metro Passenger Flow Prediction&lt;/a&gt;”, INFORMS QSR Section (2020).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;i-classfas-fa-awardi-scholarships-and-individual-funding&#34;&gt;&lt;i class=&#34;fas fa-award&#34;&gt;&lt;/i&gt; &lt;strong&gt;Scholarships and Individual Funding&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;--awards-during-phd-and-after-phd&#34;&gt;&lt;strong&gt;- Awards During Ph.D. and After Ph.D.&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;ACM Young Researcher Travel Grant Award 2023 (Winner) Amount: 1,000 USD;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Funding Agency: ACM SIGSPATIAL (2023).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Hong Kong Ph.D. Fellowship Scholarship Award (2017-2020) Amount: 1,296,000 HKD&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Highly-selective and prestigious, only 2 recipients in the department.&lt;/li&gt;
+&lt;li&gt;Funding Agency: Hong Kong Research Grants Council&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Best Thesis Award 2021 (2nd Runners-up) Amount: 3,000 HKD&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;HKUST Three Minute Thesis Competition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;1st Runners-up, Audience Award, Hackathon@UST 2018 Amount: 15,000 HKD&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;--during-bachelor-study&#34;&gt;&lt;strong&gt;- During Bachelor Study&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;National First Prize, “Challenge Cup” National Curricular Academic Science and Technology
+Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
+&lt;li&gt;Honored Graduate Award, Xi’an Jiaotong University 2017&lt;/li&gt;
+&lt;li&gt;Regional First Prize, 7th Mechanical Innovation &amp;amp; Design Competition 2016&lt;/li&gt;
+&lt;li&gt;National Scholarship, Xi’an Jiaotong University 2016&lt;/li&gt;
+&lt;li&gt;1st-Runners-up Award, XJTU Entrepreneurship Competition 2015&lt;/li&gt;
+&lt;li&gt;National Encourage Scholarships, Xi’an Jiaotong University 2014, 2015&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Walking Through The Time: All The News</title>
+      <link>https://bonaldli.github.io/post/myallnews/</link>
+      <pubDate>Sun, 02 Jun 2024 16:32:33 +0200</pubDate>
+      <guid>https://bonaldli.github.io/post/myallnews/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;May 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2405.17152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;SIGKDD 2024&lt;/strong&gt;! Great job, Jingqing. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_sigkdd2024-kdd2024-reinforcementlearning-activity-7199754182457782274-2axK?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2024&lt;/strong&gt;: We presented two papers in &lt;strong&gt;ICLR 2024&lt;/strong&gt; (Vienna, Austria) of using Large Language Models (LLMs) as agents to solve complex tasks. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_iclr2024-largelanguagemodel-llm-activity-7194345961408622595-jAYR?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2024&lt;/strong&gt;: We presented one paper in &lt;strong&gt;AISTATS 2024&lt;/strong&gt; (Valencia, Spain) of using contrastive learning to generate data for unsensored locations citywide! 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2404.12090&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;IJCAI 2024&lt;/strong&gt;! Great job, Haoyuan. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_ijcai2024-deepmind-generalistagent-activity-7187488398570397696-UP5d?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April 2024&lt;/strong&gt;: Me and my colleagues, Yizhou Wang (Northeastern University) and Kuan-Chuan Peng (Mitsubishi Electric Research Lab), are organizing a workshop &amp;ldquo;
+&lt;a href=&#34;https://adfmw.github.io/ijcai24/index.html#intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection with Foundation Models&lt;/a&gt;&amp;rdquo; in &lt;strong&gt;IJCAI 2024&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April 2024&lt;/strong&gt;: Dr. Ziyue Li is featured as the highlighted member in Institute of Industrial and Systems Engineers. 
+&lt;a href=&#34;https://www.linkedin.com/posts/iise-quality-control-and-reliability-engineering-qcre-628a631b5_machinelearning-spatialtemporal-deeplearning-activity-7185708524293779458-gR5m?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mar 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2311.13884&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;ICLR 2024&lt;/strong&gt;! Great job, Bin. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10471901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FELight: Fairness-Aware Traffic Signal Control via Sample-Efficient Reinforcement Learning&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;IEEE TKDE&lt;/strong&gt;! Great job, Xinqi. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10481508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A General Scenario-Agnostic Reinforcement Learning for Traffic Signal Control&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;IEEE TITS&lt;/strong&gt;! Great job, Haoyuan. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2404.04403&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;INFORMS Journal of Data Science&lt;/strong&gt;! Great job, Jiuyun. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov 2023&lt;/strong&gt;: &lt;em&gt;One paper accepted to AISTATS 2024&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;Two papers were accepted to ACM SIGSPATIAL 2023&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;I started to teach the course &amp;ldquo;Advanced Data Analytics and Deep Learning&amp;rdquo; for Master Program&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;I started to serve as the Sub-Council Member in INFORMS QSR&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;I served as Chair in INFORMS Annual Meeting 2023 (Phoenix, Arizona). The two sessions were &amp;ldquo;Structure Learning from Heterogenous Data&amp;rdquo; and &amp;ldquo;Spatiotemporal Decision Intelligence&amp;rdquo;.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aug 2023&lt;/strong&gt;: &lt;em&gt;I served as Chair in IEE CASE 2023 (Phoenix, Arizona), with theme in &amp;ldquo;Spatiotemporal Decision Intelligence&amp;rdquo;.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aug 2023&lt;/strong&gt;: &lt;em&gt;I served as Chair in SIGKDD (Long Beach, CA), with theme in &amp;ldquo;Graph Neural Network&amp;rdquo;.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Advanced Seminar for Machine Learning</title>
