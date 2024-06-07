@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lingzheng Zhang | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/lingzheng-zhang/</link>
+      <atom:link href="https://bonaldli.github.io/authors/lingzheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lingzheng Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 15:01:39 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lingzheng Zhang</title>
+      <link>https://bonaldli.github.io/authors/lingzheng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment</title>
+      <link>https://bonaldli.github.io/publication/timecma/</link>
+      <pubDate>Mon, 03 Jun 2024 15:01:39 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timecma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

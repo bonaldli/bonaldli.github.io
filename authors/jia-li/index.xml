@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Li | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/jia-li/</link>
+      <atom:link href="https://bonaldli.github.io/authors/jia-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 15:00:55 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jia Li</title>
+      <link>https://bonaldli.github.io/authors/jia-li/</link>
+    </image>
+    
+    <item>
+      <title>A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Mode</title>
+      <link>https://bonaldli.github.io/publication/timellmsurvey/</link>
+      <pubDate>Fri, 03 May 2024 15:00:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timellmsurvey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

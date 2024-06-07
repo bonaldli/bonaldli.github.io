@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLMs for Forcasting | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/llms-for-forcasting/</link>
+      <atom:link href="https://bonaldli.github.io/tags/llms-for-forcasting/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLMs for Forcasting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 15:01:39 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>LLMs for Forcasting</title>
+      <link>https://bonaldli.github.io/tags/llms-for-forcasting/</link>
+    </image>
+    
+    <item>
+      <title>TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment</title>
+      <link>https://bonaldli.github.io/publication/timecma/</link>
+      <pubDate>Mon, 03 Jun 2024 15:01:39 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timecma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Mode</title>
+      <link>https://bonaldli.github.io/publication/timellmsurvey/</link>
+      <pubDate>Fri, 03 May 2024 15:00:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timellmsurvey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

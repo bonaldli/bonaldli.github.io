@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Learning | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/causal-learning/</link>
+      <atom:link href="https://bonaldli.github.io/tags/causal-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 15:00:34 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Causal Learning</title>
+      <link>https://bonaldli.github.io/tags/causal-learning/</link>
+    </image>
+    
+    <item>
+      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
+      <link>https://bonaldli.github.io/publication/multifundag/</link>
+      <pubDate>Fri, 07 Jun 2024 15:00:34 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM-DAG: Multi-task DAG Learning for Multi-modal Data--with Application for Traffic Congestion Analysis</title>
+      <link>https://bonaldli.github.io/publication/mmdag-kdd23/</link>
+      <pubDate>Fri, 04 Aug 2023 00:28:34 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mmdag-kdd23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/publication_types/6/</link>
+      <atom:link href="https://bonaldli.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 14:59:26 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>6</title>
+      <link>https://bonaldli.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Sparse Decomposition Methods for Spatio-Temporal Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/stad/</link>
+      <pubDate>Mon, 26 Feb 2024 14:59:26 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/stad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

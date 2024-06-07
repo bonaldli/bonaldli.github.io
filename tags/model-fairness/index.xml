@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Fairness | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/model-fairness/</link>
+      <atom:link href="https://bonaldli.github.io/tags/model-fairness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Model Fairness</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 14:59:50 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Model Fairness</title>
+      <link>https://bonaldli.github.io/tags/model-fairness/</link>
+    </image>
+    
+    <item>
+      <title>FELight: Fairness-Aware Traffic Signal Control Via Sample-Efficient Reinforcement Learning</title>
+      <link>https://bonaldli.github.io/publication/felight/</link>
+      <pubDate>Mon, 18 Mar 2024 14:59:50 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/felight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

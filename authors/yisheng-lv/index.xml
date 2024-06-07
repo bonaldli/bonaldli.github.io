@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yisheng Lv | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/yisheng-lv/</link>
+      <atom:link href="https://bonaldli.github.io/authors/yisheng-lv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yisheng Lv</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jan 2024 14:59:01 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yisheng Lv</title>
+      <link>https://bonaldli.github.io/authors/yisheng-lv/</link>
+    </image>
+    
+    <item>
+      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
+      <link>https://bonaldli.github.io/publication/kcp/</link>
+      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

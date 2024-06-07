@@ -5,12 +5,28 @@
     <link>https://bonaldli.github.io/tags/anomaly-detection/</link>
       <atom:link href="https://bonaldli.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>Anomaly Detection</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 18:32:48 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Apr 2024 15:00:16 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Anomaly Detection</title>
       <link>https://bonaldli.github.io/tags/anomaly-detection/</link>
     </image>
+    
+    <item>
+      <title>Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling</title>
+      <link>https://bonaldli.github.io/publication/lrrst/</link>
+      <pubDate>Fri, 05 Apr 2024 15:00:16 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/lrrst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Decomposition Methods for Spatio-Temporal Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/stad/</link>
+      <pubDate>Mon, 26 Feb 2024 14:59:26 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/stad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziyue Li | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/ziyue-li/</link>
+      <atom:link href="https://bonaldli.github.io/authors/ziyue-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ziyue Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 15:01:26 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ziyue Li</title>
+      <link>https://bonaldli.github.io/authors/ziyue-li/</link>
+    </image>
+    
+    <item>
+      <title>CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control</title>
+      <link>https://bonaldli.github.io/publication/coslight/</link>
+      <pubDate>Sun, 25 Aug 2024 15:01:26 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/coslight/</guid>
+      <description>&lt;p&gt;What life mottos have we learned from traffic signal control? Wait! What?
+Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/strong&gt; and &lt;strong&gt;“Collaboration should be mutually reciprocal”&lt;/strong&gt; from the traffic light!&lt;/p&gt;
+&lt;p&gt;Every driver would have realized that the traffic patterns in different regions (residential v.s. downtown) at different hours (midday v.s. evening peak) are quite different. The same should have been true of the traffic signal coordination! In our CoSLight, we co-optimize the collaborating policy ρ (choosing which traffic light as a collaborator) and the decision-making policy π (delivering which traffic control phase for the next timeslot). It turns out to be working very, Very, VERY well: our CoSLight can choose different sets of traffic lights for collaboration at different times!&lt;/p&gt;
+&lt;p&gt;And we also learned life philosophies from the traffic light agents, very (ironically) deep:
+(1) When we drop the traffic light itself from being its own collaborator, the performance drops 2%: “You are your biggest collaborator”.
+(2) When you collaborate with me, but I don&amp;rsquo;t collaborate with you, a.k.a, not being mutually reciprocal (mathematically not being symmetric), the performance drops 300%!!!: “Collaboration should be mutually reciprocal”.&lt;/p&gt;
+&lt;p&gt;All right, “collaboration should be mutually reciprocal”: we learned the important lesson the hard way&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SQL-to-Schema Enhances Schema Linking in Text-to-SQL</title>
+      <link>https://bonaldli.github.io/publication/schemalinkingsql/</link>
+      <pubDate>Wed, 15 May 2024 15:01:16 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/schemalinkingsql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling</title>
+      <link>https://bonaldli.github.io/publication/lrrst/</link>
+      <pubDate>Fri, 05 Apr 2024 15:00:16 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/lrrst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FELight: Fairness-Aware Traffic Signal Control Via Sample-Efficient Reinforcement Learning</title>
+      <link>https://bonaldli.github.io/publication/felight/</link>
+      <pubDate>Mon, 18 Mar 2024 14:59:50 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/felight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

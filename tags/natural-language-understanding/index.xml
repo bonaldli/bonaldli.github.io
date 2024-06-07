@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Understanding | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/natural-language-understanding/</link>
+      <atom:link href="https://bonaldli.github.io/tags/natural-language-understanding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural Language Understanding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 15:01:39 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Natural Language Understanding</title>
+      <link>https://bonaldli.github.io/tags/natural-language-understanding/</link>
+    </image>
+    
+    <item>
+      <title>TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment</title>
+      <link>https://bonaldli.github.io/publication/timecma/</link>
+      <pubDate>Mon, 03 Jun 2024 15:01:39 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timecma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Mode</title>
+      <link>https://bonaldli.github.io/publication/timellmsurvey/</link>
+      <pubDate>Fri, 03 May 2024 15:00:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timellmsurvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency</title>
+      <link>https://bonaldli.github.io/publication/petsql/</link>
+      <pubDate>Fri, 08 Mar 2024 15:00:03 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/petsql/</guid>
+      <description>&lt;p&gt;We are ranked as the top-1 solution wolrd wide in the 
+&lt;a href=&#34;https://paperswithcode.com/sota/text-to-sql-on-spider&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Text-to-SQL leaderboard&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SQLBench: Benchmarking the Text-to-SQL Capability of Large Language Models - A Comprehensive Evaluation</title>
+      <link>https://bonaldli.github.io/publication/sqlbench/</link>
+      <pubDate>Tue, 05 Mar 2024 14:59:40 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/sqlbench/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

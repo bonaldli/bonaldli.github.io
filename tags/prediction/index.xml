@@ -5,12 +5,36 @@
     <link>https://bonaldli.github.io/tags/prediction/</link>
       <atom:link href="https://bonaldli.github.io/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 16:32:57 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 14:58:48 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Prediction</title>
       <link>https://bonaldli.github.io/tags/prediction/</link>
     </image>
+    
+    <item>
+      <title>Spatial-Temporal Large Language Model for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/stllm/</link>
+      <pubDate>Fri, 07 Jun 2024 14:58:48 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/stllm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment</title>
+      <link>https://bonaldli.github.io/publication/timecma/</link>
+      <pubDate>Mon, 03 Jun 2024 15:01:39 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timecma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Mode</title>
+      <link>https://bonaldli.github.io/publication/timellmsurvey/</link>
+      <pubDate>Fri, 03 May 2024 15:00:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timellmsurvey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>

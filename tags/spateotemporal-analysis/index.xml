@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spateotemporal Analysis | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/tags/spateotemporal-analysis/</link>
+      <atom:link href="https://bonaldli.github.io/tags/spateotemporal-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spateotemporal Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 15:00:34 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Spateotemporal Analysis</title>
+      <link>https://bonaldli.github.io/tags/spateotemporal-analysis/</link>
+    </image>
+    
+    <item>
+      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
+      <link>https://bonaldli.github.io/publication/multifundag/</link>
+      <pubDate>Fri, 07 Jun 2024 15:00:34 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
