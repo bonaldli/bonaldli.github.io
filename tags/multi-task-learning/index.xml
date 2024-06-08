@@ -21,11 +21,12 @@
     </item>
     
     <item>
-      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <title>GESA: A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
       <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
-      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:29:16 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DL&lt;/strong&gt;: OK, this title is more buzzword-confusing. We proposed a general agent that is massively trained with various city data so that it can control different cities&amp;rsquo; traffic lights that the agent has never seen during the training.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

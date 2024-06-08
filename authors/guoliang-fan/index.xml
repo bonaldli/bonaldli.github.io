@@ -5,7 +5,7 @@
     <link>https://bonaldli.github.io/authors/guoliang-fan/</link>
       <atom:link href="https://bonaldli.github.io/authors/guoliang-fan/index.xml" rel="self" type="application/rss+xml" />
     <description>Guoliang Fan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 23:47:28 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 23:47:28 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Guoliang Fan</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
       <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
-      <pubDate>Thu, 23 Nov 2023 23:47:28 +0100</pubDate>
+      <pubDate>Mon, 11 Mar 2024 23:47:28 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
       <description></description>
     </item>

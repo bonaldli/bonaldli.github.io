@@ -5,20 +5,12 @@
     <link>https://bonaldli.github.io/authors/lei-bai/</link>
       <atom:link href="https://bonaldli.github.io/authors/lei-bai/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Bai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 15:00:34 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 18:23:55 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lei Bai</title>
       <link>https://bonaldli.github.io/authors/lei-bai/</link>
     </image>
-    
-    <item>
-      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
-      <link>https://bonaldli.github.io/publication/multifundag/</link>
-      <pubDate>Fri, 07 Jun 2024 15:00:34 +0200</pubDate>
-      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network</title>
@@ -31,8 +23,29 @@
     <item>
       <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
       <link>https://bonaldli.github.io/publication/kcp/</link>
-      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
+      <pubDate>Thu, 02 May 2024 14:59:01 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description>&lt;p&gt;In industry, we always say the traffic management systems are an engine, and the data are the gasoline: without enough gasoline, the engine won&amp;rsquo;t start. However, that is the brutal reality for most existing traffic systems: due to the hardware cost, maybe only 20% of roads are equipped with sensors. With such sparse data, the traffic management systems stumble.&lt;/p&gt;
+&lt;p&gt;In Chinese, there is an old saying, &amp;ldquo;Four ounces can move a thousand pounds.&amp;rdquo; how can we only use 20% of data to generate the whole city-wide data? This is another step we make toward resource-efficient spatiotemporal machine learning.&lt;/p&gt;
+&lt;p&gt;Spoiler: our solution is a graph contrastive learning + prototypical contrastive learning, which can be originated from the work from salesforce.&lt;/p&gt;
+&lt;p&gt;Check in news in 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
+      <link>https://bonaldli.github.io/publication/multifundag/</link>
+      <pubDate>Mon, 22 Apr 2024 15:00:34 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting</title>
+      <link>https://bonaldli.github.io/publication/adcsd/</link>
+      <pubDate>Mon, 08 Jan 2024 14:58:27 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/adcsd/</guid>
       <description></description>
     </item>
     
@@ -77,11 +90,12 @@
     </item>
     
     <item>
-      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <title>GESA: A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
       <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
-      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:29:16 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DL&lt;/strong&gt;: OK, this title is more buzzword-confusing. We proposed a general agent that is massively trained with various city data so that it can control different cities&amp;rsquo; traffic lights that the agent has never seen during the training.&lt;/p&gt;
+</description>
     </item>
     
     <item>

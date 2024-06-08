@@ -5,12 +5,20 @@
     <link>https://bonaldli.github.io/tags/time-series/</link>
       <atom:link href="https://bonaldli.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 15:01:39 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 14:58:48 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Time Series</title>
       <link>https://bonaldli.github.io/tags/time-series/</link>
     </image>
+    
+    <item>
+      <title>Spatial-Temporal Large Language Model for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/stllm/</link>
+      <pubDate>Fri, 07 Jun 2024 14:58:48 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/stllm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment</title>
@@ -26,6 +34,77 @@
       <pubDate>Fri, 03 May 2024 15:00:55 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/timellmsurvey/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
+      <link>https://bonaldli.github.io/publication/kcp/</link>
+      <pubDate>Thu, 02 May 2024 14:59:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description>&lt;p&gt;In industry, we always say the traffic management systems are an engine, and the data are the gasoline: without enough gasoline, the engine won&amp;rsquo;t start. However, that is the brutal reality for most existing traffic systems: due to the hardware cost, maybe only 20% of roads are equipped with sensors. With such sparse data, the traffic management systems stumble.&lt;/p&gt;
+&lt;p&gt;In Chinese, there is an old saying, &amp;ldquo;Four ounces can move a thousand pounds.&amp;rdquo; how can we only use 20% of data to generate the whole city-wide data? This is another step we make toward resource-efficient spatiotemporal machine learning.&lt;/p&gt;
+&lt;p&gt;Spoiler: our solution is a graph contrastive learning + prototypical contrastive learning, which can be originated from the work from salesforce.&lt;/p&gt;
+&lt;p&gt;Check in news in 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling</title>
+      <link>https://bonaldli.github.io/publication/lrrst/</link>
+      <pubDate>Fri, 05 Apr 2024 15:00:16 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/lrrst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlated Time Series Self-Supervised Representation Learning via Spatiotemporal Bootstrapping</title>
+      <link>https://bonaldli.github.io/publication/time-series-ssl-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:42 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/time-series-ssl-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Privacy-preserving Heart Rate Prediction System for Drivers in Connected Vehicles</title>
+      <link>https://bonaldli.github.io/publication/heart-driving-mobi23/</link>
+      <pubDate>Sun, 18 Jun 2023 00:28:56 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/heart-driving-mobi23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</link>
+      <pubDate>Sat, 30 Jul 2022 18:32:48 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
+      <link>https://bonaldli.github.io/publication/wdgtc-aaai20/</link>
+      <pubDate>Fri, 03 Apr 2020 16:32:57 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/wdgtc-aaai20/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;From our last paper, we found out low-rank tensor completion tends to ill-perform in heterogeneous stations. This is because LRTC assume a low rank structure in data, i.e. low-rank property implies that data in all stations are strongly and linearly dependent. However, two spatial correlations in station dimension are observed: only stations that are geographically close or functionally similar are more likely to have same passenger flow patterns. We offered a temporary solution by conducting LRTC within each station cluster to guarantee low-rank structure. But we would also like to look for a better solution, a low-rank tensor completion method that could directly handle the data with local spatial correlations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;Therefore we proposed a tensor completion method for Weakly-dependent Data on Graph (WDG). We formulate the geographical correlation and functional similarity as two graphs, and introduce them as two Laplacian regularizations into LRTC, namely, into station-feature matrix $\mathbf{U}^{station}$, such that if two stations are close on the two graphs, they have similar parameters on $\mathbf{U}^{station}$. Besides, since there are those two graphs on station dimension, if any 2 stations are randomly picked, they’re less likely to be highly-dependent if they’re not connected in either of two graphs. We formulate this weak dependency as a sparse coding via $l_1$-norm, such that a station is represented with only a small amount of highly-related stations as “basis”.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;We are the first work to provide a Low Rank Tensor Completion solution to weakly-dependent pattern on graphs. And the completion result could achieve 40% higher accuracy.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -48,7 +48,8 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
       <link>https://bonaldli.github.io/publication/felight/</link>
       <pubDate>Mon, 18 Mar 2024 14:59:50 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/felight/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DR&lt;/strong&gt;:  It&amp;rsquo;s traffic signal control again, but what&amp;rsquo;s new here? How can we ensure that the agents control the traffic light fairly? We embedded such fairness metrics into Reinforcement Learning models. Furthermore, how can we minimize the sample required and achieve a resource-efficient agent? We used self-supervised learning!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

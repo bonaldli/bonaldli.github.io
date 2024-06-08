@@ -36,14 +36,6 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
-      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
-      <link>https://bonaldli.github.io/publication/multifundag/</link>
-      <pubDate>Fri, 07 Jun 2024 15:00:34 +0200</pubDate>
-      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spatial-Temporal Large Language Model for Traffic Prediction</title>
       <link>https://bonaldli.github.io/publication/stllm/</link>
       <pubDate>Fri, 07 Jun 2024 14:58:48 +0200</pubDate>
@@ -211,6 +203,27 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
     </item>
     
     <item>
+      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
+      <link>https://bonaldli.github.io/publication/kcp/</link>
+      <pubDate>Thu, 02 May 2024 14:59:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description>&lt;p&gt;In industry, we always say the traffic management systems are an engine, and the data are the gasoline: without enough gasoline, the engine won&amp;rsquo;t start. However, that is the brutal reality for most existing traffic systems: due to the hardware cost, maybe only 20% of roads are equipped with sensors. With such sparse data, the traffic management systems stumble.&lt;/p&gt;
+&lt;p&gt;In Chinese, there is an old saying, &amp;ldquo;Four ounces can move a thousand pounds.&amp;rdquo; how can we only use 20% of data to generate the whole city-wide data? This is another step we make toward resource-efficient spatiotemporal machine learning.&lt;/p&gt;
+&lt;p&gt;Spoiler: our solution is a graph contrastive learning + prototypical contrastive learning, which can be originated from the work from salesforce.&lt;/p&gt;
+&lt;p&gt;Check in news in 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
+      <link>https://bonaldli.github.io/publication/multifundag/</link>
+      <pubDate>Mon, 22 Apr 2024 15:00:34 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling</title>
       <link>https://bonaldli.github.io/publication/lrrst/</link>
       <pubDate>Fri, 05 Apr 2024 15:00:16 +0200</pubDate>
@@ -223,6 +236,23 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
       <link>https://bonaldli.github.io/publication/felight/</link>
       <pubDate>Mon, 18 Mar 2024 14:59:50 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/felight/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DR&lt;/strong&gt;:  It&amp;rsquo;s traffic signal control again, but what&amp;rsquo;s new here? How can we ensure that the agents control the traffic light fairly? We embedded such fairness metrics into Reinforcement Learning models. Furthermore, how can we minimize the sample required and achieve a resource-efficient agent? We used self-supervised learning!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems</title>
+      <link>https://bonaldli.github.io/publication/tptu_v2/</link>
+      <pubDate>Fri, 15 Mar 2024 23:51:41 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tptu_v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
+      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
+      <pubDate>Mon, 11 Mar 2024 23:47:28 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
       <description></description>
     </item>
     
@@ -253,10 +283,10 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
     </item>
     
     <item>
-      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
-      <link>https://bonaldli.github.io/publication/kcp/</link>
-      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
-      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <title>Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting</title>
+      <link>https://bonaldli.github.io/publication/adcsd/</link>
+      <pubDate>Mon, 08 Jan 2024 14:58:27 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/adcsd/</guid>
       <description></description>
     </item>
     
@@ -270,22 +300,6 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
 &lt;p&gt;The syllabus is available 
 &lt;a href=&#34;https://drive.google.com/file/d/1zHetIPczpivPBxlHMLVWF-EDz_ZNQcJE/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
-      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
-      <pubDate>Thu, 23 Nov 2023 23:47:28 +0100</pubDate>
-      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems</title>
-      <link>https://bonaldli.github.io/publication/tptu_v2/</link>
-      <pubDate>Sun, 19 Nov 2023 23:51:41 +0100</pubDate>
-      <guid>https://bonaldli.github.io/publication/tptu_v2/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -364,6 +378,14 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
     </item>
     
     <item>
+      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
+      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:27 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting</title>
       <link>https://bonaldli.github.io/publication/adaptive-case23/</link>
       <pubDate>Thu, 28 Sep 2023 00:27:02 +0100</pubDate>
@@ -396,19 +418,12 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
     </item>
     
     <item>
-      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
-      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
-      <pubDate>Wed, 14 Jun 2023 00:27:27 +0100</pubDate>
-      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <title>GESA: A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
       <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
-      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:29:16 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DL&lt;/strong&gt;: OK, this title is more buzzword-confusing. We proposed a general agent that is massively trained with various city data so that it can control different cities&amp;rsquo; traffic lights that the agent has never seen during the training.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -475,6 +490,14 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
     </item>
     
     <item>
+      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</link>
+      <pubDate>Sat, 30 Jul 2022 18:32:48 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation</title>
       <link>https://bonaldli.github.io/publication/tensorlda-dami22/</link>
       <pubDate>Sat, 18 Jun 2022 19:18:44 +0800</pubDate>
@@ -483,6 +506,37 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Data Mining Section.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bonaldli.github.io/publication/tensorlda-dami22/award_hud246687f1c43d76d6da0f2d2a5503702_264851_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://bonaldli.github.io/publication/tensorlda-dami22/award_hud246687f1c43d76d6da0f2d2a5503702_264851_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1336&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;After the previous two works in station-wise traffic flow prediction, we realized this mass traffic analysis at a macro level neglects the research value and abundant information of individual passenger travel data. Individualized travel pattern (passenger $u$ travels from origin $o$ to destination $d$  at time $t$) is believed to have higher research value.&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;But this task is rather challenging since it is high-dimensional multi-mode Spatiotemporal big data with more 7 million passengers; Also there is multi-clustering structure along each dimension of $o, d, t$; passenger behaviors are also affected by the external environment, such as the locations and surroundings of stations.&lt;/p&gt;
@@ -498,14 +552,6 @@ Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
       <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
       <pubDate>Mon, 19 Apr 2021 18:20:55 +0800</pubDate>
       <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
-      <link>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</link>
-      <pubDate>Mon, 04 Jan 2021 18:32:48 +0800</pubDate>
-      <guid>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</guid>
       <description></description>
     </item>
     
@@ -622,6 +668,37 @@ Introduction:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Conference Paper Award&lt;/strong&gt; in 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE).&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bonaldli.github.io/publication/lstensor-case2020/award_hu830bed537427dc1b3a16080d83b6c24b_1155107_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://bonaldli.github.io/publication/lstensor-case2020/award_hu830bed537427dc1b3a16080d83b6c24b_1155107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1324&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Traffic flow prediction is undoubtedly an essential task for both operational team and citizens. With the collaboration the Hong Kong Metro, we realize  the task to provide the citywide prediction covering all 100 stations simultaneously is quite essential yet rather challenging, especially when the data has strong spatiotemporal correlation.&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;We observed two types of spatial correlations and two types of temporal correlations in the data. We have spot that, for spatial correlations: (S1) Geographical correlation: the passenger flow of a station is usually affected by its spatially adjacent neighbors; (S2) Contextual correlations: two stations sharing similar functionalities (business center, residential area or school, etc.) are more likely to have similar passenger flows. For temporal correlations: (T1) Daily correlation: the profile is correlated with previous days of the same week; (T2)  Weekly correlation: the profile is correlated with the same day of previous weeks.&lt;/p&gt;

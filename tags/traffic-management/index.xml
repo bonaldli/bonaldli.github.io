@@ -36,9 +36,17 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
+      <title>DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge</title>
+      <link>https://bonaldli.github.io/publication/dualight/</link>
+      <pubDate>Mon, 06 May 2024 18:30:13 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/dualight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
       <link>https://bonaldli.github.io/publication/multifundag/</link>
-      <pubDate>Fri, 07 Jun 2024 15:00:34 +0200</pubDate>
+      <pubDate>Mon, 22 Apr 2024 15:00:34 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/multifundag/</guid>
       <description></description>
     </item>
@@ -48,6 +56,23 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
       <link>https://bonaldli.github.io/publication/felight/</link>
       <pubDate>Mon, 18 Mar 2024 14:59:50 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/felight/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DR&lt;/strong&gt;:  It&amp;rsquo;s traffic signal control again, but what&amp;rsquo;s new here? How can we ensure that the agents control the traffic light fairly? We embedded such fairness metrics into Reinforcement Learning models. Furthermore, how can we minimize the sample required and achieve a resource-efficient agent? We used self-supervised learning!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Causal Graph Convolutional Network for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/dbgcn-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:59 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/dbgcn-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
+      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:27 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
       <description></description>
     </item>
     
@@ -60,11 +85,12 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
-      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <title>GESA: A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
       <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
-      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:29:16 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DL&lt;/strong&gt;: OK, this title is more buzzword-confusing. We proposed a general agent that is massively trained with various city data so that it can control different cities&amp;rsquo; traffic lights that the agent has never seen during the training.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

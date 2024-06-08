@@ -39,7 +39,7 @@
     <item>
       <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
       <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
-      <pubDate>Wed, 14 Jun 2023 00:27:27 +0100</pubDate>
+      <pubDate>Thu, 28 Sep 2023 00:27:27 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
       <description></description>
     </item>
@@ -61,6 +61,37 @@
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Data Mining Section.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bonaldli.github.io/publication/tensorlda-dami22/award_hud246687f1c43d76d6da0f2d2a5503702_264851_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://bonaldli.github.io/publication/tensorlda-dami22/award_hud246687f1c43d76d6da0f2d2a5503702_264851_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1336&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;After the previous two works in station-wise traffic flow prediction, we realized this mass traffic analysis at a macro level neglects the research value and abundant information of individual passenger travel data. Individualized travel pattern (passenger $u$ travels from origin $o$ to destination $d$  at time $t$) is believed to have higher research value.&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;But this task is rather challenging since it is high-dimensional multi-mode Spatiotemporal big data with more 7 million passengers; Also there is multi-clustering structure along each dimension of $o, d, t$; passenger behaviors are also affected by the external environment, such as the locations and surroundings of stations.&lt;/p&gt;

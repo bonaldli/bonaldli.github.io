@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Zhang | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/authors/yu-zhang/</link>
+      <atom:link href="https://bonaldli.github.io/authors/yu-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jan 2024 14:58:27 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yu Zhang</title>
+      <link>https://bonaldli.github.io/authors/yu-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting</title>
+      <link>https://bonaldli.github.io/publication/adcsd/</link>
+      <pubDate>Mon, 08 Jan 2024 14:58:27 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/adcsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

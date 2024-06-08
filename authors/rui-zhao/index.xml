@@ -36,14 +36,6 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
-      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
-      <link>https://bonaldli.github.io/publication/multifundag/</link>
-      <pubDate>Fri, 07 Jun 2024 15:00:34 +0200</pubDate>
-      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spatial-Temporal Large Language Model for Traffic Prediction</title>
       <link>https://bonaldli.github.io/publication/stllm/</link>
       <pubDate>Fri, 07 Jun 2024 14:58:48 +0200</pubDate>
@@ -93,6 +85,43 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
+      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
+      <link>https://bonaldli.github.io/publication/kcp/</link>
+      <pubDate>Thu, 02 May 2024 14:59:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description>&lt;p&gt;In industry, we always say the traffic management systems are an engine, and the data are the gasoline: without enough gasoline, the engine won&amp;rsquo;t start. However, that is the brutal reality for most existing traffic systems: due to the hardware cost, maybe only 20% of roads are equipped with sensors. With such sparse data, the traffic management systems stumble.&lt;/p&gt;
+&lt;p&gt;In Chinese, there is an old saying, &amp;ldquo;Four ounces can move a thousand pounds.&amp;rdquo; how can we only use 20% of data to generate the whole city-wide data? This is another step we make toward resource-efficient spatiotemporal machine learning.&lt;/p&gt;
+&lt;p&gt;Spoiler: our solution is a graph contrastive learning + prototypical contrastive learning, which can be originated from the work from salesforce.&lt;/p&gt;
+&lt;p&gt;Check in news in 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
+      <link>https://bonaldli.github.io/publication/multifundag/</link>
+      <pubDate>Mon, 22 Apr 2024 15:00:34 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems</title>
+      <link>https://bonaldli.github.io/publication/tptu_v2/</link>
+      <pubDate>Fri, 15 Mar 2024 23:51:41 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tptu_v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
+      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
+      <pubDate>Mon, 11 Mar 2024 23:47:28 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency</title>
       <link>https://bonaldli.github.io/publication/petsql/</link>
       <pubDate>Fri, 08 Mar 2024 15:00:03 +0200</pubDate>
@@ -107,30 +136,6 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
       <link>https://bonaldli.github.io/publication/sqlbench/</link>
       <pubDate>Tue, 05 Mar 2024 14:59:40 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/sqlbench/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
-      <link>https://bonaldli.github.io/publication/kcp/</link>
-      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
-      <guid>https://bonaldli.github.io/publication/kcp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
-      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
-      <pubDate>Thu, 23 Nov 2023 23:47:28 +0100</pubDate>
-      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems</title>
-      <link>https://bonaldli.github.io/publication/tptu_v2/</link>
-      <pubDate>Sun, 19 Nov 2023 23:51:41 +0100</pubDate>
-      <guid>https://bonaldli.github.io/publication/tptu_v2/</guid>
       <description></description>
     </item>
     
@@ -191,11 +196,12 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
-      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <title>GESA: A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
       <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
-      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:29:16 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DL&lt;/strong&gt;: OK, this title is more buzzword-confusing. We proposed a general agent that is massively trained with various city data so that it can control different cities&amp;rsquo; traffic lights that the agent has never seen during the training.&lt;/p&gt;
+</description>
     </item>
     
     <item>

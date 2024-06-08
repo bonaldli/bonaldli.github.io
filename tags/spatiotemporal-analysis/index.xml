@@ -60,6 +60,19 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
+      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
+      <link>https://bonaldli.github.io/publication/kcp/</link>
+      <pubDate>Thu, 02 May 2024 14:59:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description>&lt;p&gt;In industry, we always say the traffic management systems are an engine, and the data are the gasoline: without enough gasoline, the engine won&amp;rsquo;t start. However, that is the brutal reality for most existing traffic systems: due to the hardware cost, maybe only 20% of roads are equipped with sensors. With such sparse data, the traffic management systems stumble.&lt;/p&gt;
+&lt;p&gt;In Chinese, there is an old saying, &amp;ldquo;Four ounces can move a thousand pounds.&amp;rdquo; how can we only use 20% of data to generate the whole city-wide data? This is another step we make toward resource-efficient spatiotemporal machine learning.&lt;/p&gt;
+&lt;p&gt;Spoiler: our solution is a graph contrastive learning + prototypical contrastive learning, which can be originated from the work from salesforce.&lt;/p&gt;
+&lt;p&gt;Check in news in 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling</title>
       <link>https://bonaldli.github.io/publication/lrrst/</link>
       <pubDate>Fri, 05 Apr 2024 15:00:16 +0200</pubDate>
@@ -72,14 +85,15 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
       <link>https://bonaldli.github.io/publication/felight/</link>
       <pubDate>Mon, 18 Mar 2024 14:59:50 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/felight/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;TL; DR&lt;/strong&gt;:  It&amp;rsquo;s traffic signal control again, but what&amp;rsquo;s new here? How can we ensure that the agents control the traffic light fairly? We embedded such fairness metrics into Reinforcement Learning models. Furthermore, how can we minimize the sample required and achieve a resource-efficient agent? We used self-supervised learning!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
-      <link>https://bonaldli.github.io/publication/kcp/</link>
-      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
-      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <title>Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting</title>
+      <link>https://bonaldli.github.io/publication/adcsd/</link>
+      <pubDate>Mon, 08 Jan 2024 14:58:27 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/adcsd/</guid>
       <description></description>
     </item>
     
@@ -124,6 +138,14 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
     </item>
     
     <item>
+      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
+      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:27 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting</title>
       <link>https://bonaldli.github.io/publication/adaptive-case23/</link>
       <pubDate>Thu, 28 Sep 2023 00:27:02 +0100</pubDate>
@@ -136,14 +158,6 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
       <link>https://bonaldli.github.io/publication/mmdag-kdd23/</link>
       <pubDate>Fri, 04 Aug 2023 00:28:34 +0100</pubDate>
       <guid>https://bonaldli.github.io/publication/mmdag-kdd23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
-      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
-      <pubDate>Wed, 14 Jun 2023 00:27:27 +0100</pubDate>
-      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
       <description></description>
     </item>
     
@@ -191,6 +205,37 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Data Mining Section.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bonaldli.github.io/publication/tensorlda-dami22/award_hud246687f1c43d76d6da0f2d2a5503702_264851_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://bonaldli.github.io/publication/tensorlda-dami22/award_hud246687f1c43d76d6da0f2d2a5503702_264851_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1336&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;After the previous two works in station-wise traffic flow prediction, we realized this mass traffic analysis at a macro level neglects the research value and abundant information of individual passenger travel data. Individualized travel pattern (passenger $u$ travels from origin $o$ to destination $d$  at time $t$) is believed to have higher research value.&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;But this task is rather challenging since it is high-dimensional multi-mode Spatiotemporal big data with more 7 million passengers; Also there is multi-clustering structure along each dimension of $o, d, t$; passenger behaviors are also affected by the external environment, such as the locations and surroundings of stations.&lt;/p&gt;
@@ -218,6 +263,37 @@ Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/s
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Conference Paper Award&lt;/strong&gt; in 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE).&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bonaldli.github.io/publication/lstensor-case2020/award_hu830bed537427dc1b3a16080d83b6c24b_1155107_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://bonaldli.github.io/publication/lstensor-case2020/award_hu830bed537427dc1b3a16080d83b6c24b_1155107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1324&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Traffic flow prediction is undoubtedly an essential task for both operational team and citizens. With the collaboration the Hong Kong Metro, we realize  the task to provide the citywide prediction covering all 100 stations simultaneously is quite essential yet rather challenging, especially when the data has strong spatiotemporal correlation.&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;We observed two types of spatial correlations and two types of temporal correlations in the data. We have spot that, for spatial correlations: (S1) Geographical correlation: the passenger flow of a station is usually affected by its spatially adjacent neighbors; (S2) Contextual correlations: two stations sharing similar functionalities (business center, residential area or school, etc.) are more likely to have similar passenger flows. For temporal correlations: (T1) Daily correlation: the profile is correlated with previous days of the same week; (T2)  Weekly correlation: the profile is correlated with the same day of previous weeks.&lt;/p&gt;

@@ -21,6 +21,19 @@
     </item>
     
     <item>
+      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
+      <link>https://bonaldli.github.io/publication/kcp/</link>
+      <pubDate>Thu, 02 May 2024 14:59:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description>&lt;p&gt;In industry, we always say the traffic management systems are an engine, and the data are the gasoline: without enough gasoline, the engine won&amp;rsquo;t start. However, that is the brutal reality for most existing traffic systems: due to the hardware cost, maybe only 20% of roads are equipped with sensors. With such sparse data, the traffic management systems stumble.&lt;/p&gt;
+&lt;p&gt;In Chinese, there is an old saying, &amp;ldquo;Four ounces can move a thousand pounds.&amp;rdquo; how can we only use 20% of data to generate the whole city-wide data? This is another step we make toward resource-efficient spatiotemporal machine learning.&lt;/p&gt;
+&lt;p&gt;Spoiler: our solution is a graph contrastive learning + prototypical contrastive learning, which can be originated from the work from salesforce.&lt;/p&gt;
+&lt;p&gt;Check in news in 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling</title>
       <link>https://bonaldli.github.io/publication/lrrst/</link>
       <pubDate>Fri, 05 Apr 2024 15:00:16 +0200</pubDate>
@@ -29,10 +42,10 @@
     </item>
     
     <item>
-      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
-      <link>https://bonaldli.github.io/publication/kcp/</link>
-      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
-      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <title>Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting</title>
+      <link>https://bonaldli.github.io/publication/adcsd/</link>
+      <pubDate>Mon, 08 Jan 2024 14:58:27 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/adcsd/</guid>
       <description></description>
     </item>
     
@@ -77,6 +90,37 @@
 &lt;blockquote&gt;
 &lt;p&gt;This paper is awarded with &lt;strong&gt;Best Conference Paper Award&lt;/strong&gt; in 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE).&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bonaldli.github.io/publication/lstensor-case2020/award_hu830bed537427dc1b3a16080d83b6c24b_1155107_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://bonaldli.github.io/publication/lstensor-case2020/award_hu830bed537427dc1b3a16080d83b6c24b_1155107_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1324&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Traffic flow prediction is undoubtedly an essential task for both operational team and citizens. With the collaboration the Hong Kong Metro, we realize  the task to provide the citywide prediction covering all 100 stations simultaneously is quite essential yet rather challenging, especially when the data has strong spatiotemporal correlation.&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;We observed two types of spatial correlations and two types of temporal correlations in the data. We have spot that, for spatial correlations: (S1) Geographical correlation: the passenger flow of a station is usually affected by its spatially adjacent neighbors; (S2) Contextual correlations: two stations sharing similar functionalities (business center, residential area or school, etc.) are more likely to have similar passenger flows. For temporal correlations: (T1) Daily correlation: the profile is correlated with previous days of the same week; (T2)  Weekly correlation: the profile is correlated with the same day of previous weeks.&lt;/p&gt;
@@ -85,6 +129,24 @@
 &lt;p&gt;To tackle this challenge, we first formulate data as a three-dimensional tensor $\boldsymbol{\mathcal{X}}^{station \times  point \times day}$ with dimension station, day, time point, to preserve the spatiotemporal nature of the data. (1.1) For long-term prediction, we proposed a &amp;ldquo;2-step 2D-ARMA&amp;rdquo; tensor prediction model, which firstly uses tensor decomposition to get day-feature matrix $\mathbf{U}^{day}$, and then conducts 2D-ARMA prediction model on this $\mathbf{U}^{day}$, capturing the daily and weekly correlations in a better way. (1.2) Another challenge for long-term prediction is how to update prediction real-time when new data keep arriving. To tackle this, we also propose a recursive dynamic updating method. (2) For short-term prediction,  we first directly used Low Rank Tensor Completion (LRTC) method to treat the prediction horizon as missing part and to complete it. But we found an interesting phenomenon: in homogeneous stations LRTC works well, however, LRTC malfunctions in heterogeneous stations. we proposed a temporary solution for it: a &amp;ldquo;Tensor Clustering + Tensor Completion&amp;rdquo; prediction model which first clusters stations and then conducts tensor completion within each station cluster for prediction.&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
 &lt;p&gt;Our method improved the prediction results significantly: for long-term prediction, 30% higher accuracy is achieved; Recursive dynamic updating method could improve the following 3 hours prediction by around 20%. For short-term prediction, with the homogeneity of stations guaranteed, and the tensor completion within one cluster can improve the prediction by 30%&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
+      <link>https://bonaldli.github.io/publication/wdgtc-aaai20/</link>
+      <pubDate>Fri, 03 Apr 2020 16:32:57 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/wdgtc-aaai20/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;From our last paper, we found out low-rank tensor completion tends to ill-perform in heterogeneous stations. This is because LRTC assume a low rank structure in data, i.e. low-rank property implies that data in all stations are strongly and linearly dependent. However, two spatial correlations in station dimension are observed: only stations that are geographically close or functionally similar are more likely to have same passenger flow patterns. We offered a temporary solution by conducting LRTC within each station cluster to guarantee low-rank structure. But we would also like to look for a better solution, a low-rank tensor completion method that could directly handle the data with local spatial correlations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;Therefore we proposed a tensor completion method for Weakly-dependent Data on Graph (WDG). We formulate the geographical correlation and functional similarity as two graphs, and introduce them as two Laplacian regularizations into LRTC, namely, into station-feature matrix $\mathbf{U}^{station}$, such that if two stations are close on the two graphs, they have similar parameters on $\mathbf{U}^{station}$. Besides, since there are those two graphs on station dimension, if any 2 stations are randomly picked, they’re less likely to be highly-dependent if they’re not connected in either of two graphs. We formulate this weak dependency as a sparse coding via $l_1$-norm, such that a station is represented with only a small amount of highly-related stations as “basis”.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;We are the first work to provide a Low Rank Tensor Completion solution to weakly-dependent pattern on graphs. And the completion result could achieve 40% higher accuracy.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://bonaldli.github.io/tags/self-supervised-learning/</link>
       <atom:link href="https://bonaldli.github.io/tags/self-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-Supervised Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jan 2024 14:59:01 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 May 2024 14:59:01 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Self-Supervised Learning</title>
@@ -15,8 +15,21 @@
     <item>
       <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
       <link>https://bonaldli.github.io/publication/kcp/</link>
-      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
+      <pubDate>Thu, 02 May 2024 14:59:01 +0200</pubDate>
       <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description>&lt;p&gt;In industry, we always say the traffic management systems are an engine, and the data are the gasoline: without enough gasoline, the engine won&amp;rsquo;t start. However, that is the brutal reality for most existing traffic systems: due to the hardware cost, maybe only 20% of roads are equipped with sensors. With such sparse data, the traffic management systems stumble.&lt;/p&gt;
+&lt;p&gt;In Chinese, there is an old saying, &amp;ldquo;Four ounces can move a thousand pounds.&amp;rdquo; how can we only use 20% of data to generate the whole city-wide data? This is another step we make toward resource-efficient spatiotemporal machine learning.&lt;/p&gt;
+&lt;p&gt;Spoiler: our solution is a graph contrastive learning + prototypical contrastive learning, which can be originated from the work from salesforce.&lt;/p&gt;
+&lt;p&gt;Check in news in 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
       <description></description>
     </item>
     
